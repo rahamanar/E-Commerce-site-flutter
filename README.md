@@ -2,7 +2,7 @@
 
 ## [Watch it on YouTube](https://youtu.be/YEJPg2jwzI8)
 
-<img src="https://github.com/rahamanar/E-Commerce-site-flutter/blob/main/assets/screenshots/Screenshot1.png" width="160" height="280">  
+<img src="https://github.com/rahamanar/E-Commerce-site-flutter/blob/main/assets/screenshots/ecommerce.gif" width="160" height="280">  
 
 # Screenshots :
 
